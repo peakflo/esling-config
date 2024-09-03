@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-peakflo-base",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "repository": "https://github.com/peakflo/eslint-config.git",
+  "author": "dimavedenyapin <stmamont@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
