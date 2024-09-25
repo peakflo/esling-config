@@ -39,6 +39,8 @@ module.exports = {
     camelcase: "off",
     "no-case-declarations": "off",
     "no-await-in-loop": "off",
+    "@typescript-eslint/explicit-function-return-type": "warn",
+		"@typescript-eslint/explicit-module-boundary-types": "warn"
     // TODO: enable
     // "@typescript-eslint/no-floating-promises": "error"
   },
