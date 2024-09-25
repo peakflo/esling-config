@@ -2,10 +2,14 @@
   "name": "@peakflo/eslint-config",
   "version": "1.0.1",
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
   "main": "index.js",
-  "repository": "https://github.com/peakflo/eslint-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peakflo/eslint-config.git"
+  },
   "author": "dimavedenyapin <stmamont@gmail.com>",
   "license": "MIT",
   "private": false
